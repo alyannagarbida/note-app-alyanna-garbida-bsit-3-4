@@ -45,10 +45,11 @@ if(cmd[2] === "delete")
             id: cmd[3],
             title: cmd[4],
             body: cmd[5]
-            
+
         }
  
         const newNote = read ()
+        
         update (note, newNote)
         // update the latest data
         const present = require('./present')
