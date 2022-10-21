@@ -1,6 +1,7 @@
-const fs =require('fs');
+const fs = require('fs')
 
-const write = function(data = 'nothing') {
-    fs.writeFileSync('task.txt', data)
+const write = function(data='nothing') {
+    fs.writeFileSync('Note.txt', data)
 }
- module.exports = write;
+
+module.exports = write
