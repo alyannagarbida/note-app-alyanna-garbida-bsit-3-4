@@ -45,6 +45,7 @@ if(cmd[2] === "delete")
             id: cmd[3],
             title: cmd[4],
             body: cmd[5]
+            
         }
  
         const newNote = read ()
