@@ -1,7 +1,7 @@
 {
-  "name": "note-app",
+  "name": "note-app-alyanna-garbida-bsit-3-4",
   "version": "1.0.0",
-  "description": "Midterm_Project",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Escurel-Mae25/note-app.git"
+    "url": "git+https://github.com/alyannagarbida/note-app-alyanna-garbida-bsit-3-4.git"
   },
-  "author": "Mae Escurel 25",
+  "author": "Alyanna Garbida",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Escurel-Mae25/note-app/issues"
+    "url": "https://github.com/alyannagarbida/note-app-alyanna-garbida-bsit-3-4/issues"
   },
-  "homepage": "https://github.com/Escurel-Mae25/note-app#readme"
+  "homepage": "https://github.com/alyannagarbida/note-app-alyanna-garbida-bsit-3-4#readme"
 }
