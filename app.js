@@ -3,6 +3,7 @@ const read = require('./read')
 const del = require('./del')
 const update = require('./update')
 //get users input
+
 const cmd = process.argv;
 
 if(cmd[2] === 'add') {
@@ -38,7 +39,8 @@ if(cmd[2] === "delete")
     console.log (del)
     }
  // update function
-    if (cmd[2] === 'update') {
+    if (cmd[2] === 'update')
+     {
        let note  = {
             id: cmd[3],
             title: cmd[4],
